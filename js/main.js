@@ -1,4 +1,4 @@
-$(function() {
+  $(function() {
 	'use strict';
 
 	var window_width = $(window).width(),
